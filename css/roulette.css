@@ -1,0 +1,11 @@
+body{
+    background: white;
+}
+
+.box{
+    margin: 20px 20px 20px 20px;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    float: left;
+}
